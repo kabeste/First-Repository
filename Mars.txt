@@ -1,0 +1,17 @@
+Earth Resources:
+Currency, Time
+
+Earth Tasks:
+Hire crew, Train Crew, Build Launch Vehicle, Build Crew Vehicle, Launch
+
+Mars Resources: 
+Air, Water, Food, Energy
+
+Mars Tasks:
+Work - Farming, Building, Repair
+R&R - Internet, Video, games with crew, exploration
+
+Choices:
+One Way trip or return.
+Dietary choices.
+
